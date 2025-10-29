@@ -1,5 +1,11 @@
 # FFMPEG
 
+- MacOS
+    - Arm64
+    - x86
+- Windows
+
+
 ```
 ffmpeg version 7.1.1-tessus  https://evermeet.cx/ffmpeg/  Copyright (c) 2000-2025 the FFmpeg developers
 built with Apple clang version 16.0.0 (clang-1600.0.26.6)
